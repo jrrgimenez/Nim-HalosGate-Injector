@@ -2,7 +2,7 @@
 
 My Nim implementation of the most common shellcode injector, using HalosGate to retrieve system call opcodes dynamically from NTDLL even when there are EDR API Hooks in place. 
 
-It relies heavily in other implementations, so huge thanks to SEKTOR7 [1] for implementing this technique and @am0nsec and @RtlMateusz for creating the Hell's Gate paper in first place [2]. Thanks also to @zimawhit3 for its Nim Hell's gate implementation [3] :)
+It relies heavily in other implementations, so huge thanks to SEKTOR7 [1] for implementing this technique and @am0nsec and @RtlMateusz for creating the Hell's Gate paper in first place [2]. Thanks also to @zimawhit3 for his Nim Hell's gate implementation [3] :)
 
 # Usage
 
