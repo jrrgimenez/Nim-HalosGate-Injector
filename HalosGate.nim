@@ -2,7 +2,6 @@
 
 include types
 import strutils
-import winim/lean
 import os
 import strformat
 
